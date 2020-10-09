@@ -11,6 +11,8 @@ This paper continues our previos work on disributed triclustering of 3-ary Boole
 
 * [Sergey Zudin, Dmitry V. Gnatyshak, Dmitry I. Ignatov: Putting OAC-triclustering on MapReduce. CLA 2015: 47-58](http://ceur-ws.org/Vol-1466/paper04.pdf)
 
+To acknowledge use of the code in publications, please cite the following papers and mention this repository.
+
 ## References
 
 1. 
