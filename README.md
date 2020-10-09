@@ -7,8 +7,4 @@ This repository contains the code for our paper **"Multimodal Clustering of Bool
 
 **Abstract**
 
-*The paper presents further development of distributed multimodal clustering. We introduce a new version of multimodal
-clustering algorithm for distributed processing in Apache Hadoop on computer clusters. Its implementation allows a user
-to conduct clustering on data with modality more or equal two. We provide time and space complexity of the algorithm
-and justify its relevance. The algorithm is adapted for MapReduce distributed processing model. The program is
-implemented by means of Apache Hadoop framework is able to perform parallel computing on thousands of nodes.*
+*This paper presents further development of distributed mul- timodal clustering. We introduce a new version of multimodal clustering algorithm for distributed processing in Apache Hadoop on computer clus- ters. Its implementation allows a user to conduct clustering on data with modality greater than two. We provide time and space complexity of the algorithm and justify its relevance. The algorithm is adapted for MapRe- duce distributed processing model. The program implemented by means of Apache Hadoop framework is able to perform parallel computing on thousands of nodes.*
